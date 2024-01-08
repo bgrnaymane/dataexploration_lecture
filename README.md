@@ -4,6 +4,6 @@ Klinisch-stumme Schlaganfälle verlaufen ohne Symptome und werden daher oft nich
 
 Dieses Projekt soll Ärzten ermöglichen, mithilfe von Patientendaten festzustellen, ob ein Patient in seinem Leben bereits einen Schlaganfall hatte, einschließlich stummer Schlaganfälle.
 
-Ziele dieser Arbeit
+## Ziele dieser Arbeit
 Durchführung einer exploratory data analysis (EDA) für den Datensatz.
 Erstellung und Verbesserung eines optimalen Modells zur Schlaganfallerkennung, basierend auf einem vorher festgelegten Gütekriterium.
